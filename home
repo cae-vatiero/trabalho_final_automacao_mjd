@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha História Profissional</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eba5a5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .profile-info {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .profile-info p {
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Minha História Profissional</h1>
+    <div class="profile-info">
+        <h2>Caê Vatiero, jornalista</h2>
+        <p>Olá, eu sou o <strong>Caê Vatiero</strong>, jornalista transmasculino formado pela UNESP e pós-graduando em Jornalismo de Dados, Automação e Data Storytelling pelo INSPER. É cofundador da Transmídia, primeira iniciativa de jornalismo do Brasil a cobrir a pauta da população trans, e do projeto Transfobia em Dados. Trabalha na equipe de Proteção e Participação Democrática da ARTIGO 19 Brasil e América do Sul.
+
+            Monitorou jornalistas bloqueados por autoridades públicas no Twitter, no projeto LAI nas Redações e foi assistente do Programa Tim Lopes pela Associação Brasileira de Jornalismo Investigativo (Abraji). Foi integrante da 2º temporada do programa Idade Mídia, do Canal Futura. Começou sua trajetória profissional como repórter no jornal independente Fatos da Rua.</p>
+        <img src="sua_foto.jpg" alt="Foto do Caê Vatiero">
+    </div>
+</div>
+
+</body>
+</html>
